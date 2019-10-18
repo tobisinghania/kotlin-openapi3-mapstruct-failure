@@ -95,6 +95,7 @@
                         <configuration>
                             <sourceDirs>
                                 <sourceDir>src/main/kotlin</sourceDir>
+                                <sourceDir>target/generated-sources/openapi/src/main/java</sourceDir>
                             </sourceDirs>
                             <annotationProcessorPaths>
                                 <annotationProcessorPath>
